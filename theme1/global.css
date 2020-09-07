@@ -1,3 +1,9 @@
+@font-face {
+font-family: "Lato";
+src: url("fonts/lato/Lato-Light.ttf");
+font-style: normal;
+}
+
 html,body{
 margin: 0;
 padding: 0;
@@ -356,7 +362,7 @@ background-color: #000;
 	background-color: #333;
 	width: 0;
 	overflow: hidden;
-	
+
 	-webkit-transition: color 1s, background-color 1s, width 0.5s;
 	-moz-transition: color 1s, background-color 1s, width 0.5s;
 	-ms-transition: color 1s, background-color 1s, width 0.5s;
@@ -558,7 +564,7 @@ padding: 10px 0 10px 0;
 
 .post h1 .sub{
 display: block;
-margin: 10px 0 0 0;	
+margin: 10px 0 0 0;
 font: 300 18px/22px 'Lato',helvetica, arial, sans-serif;
 }
 
