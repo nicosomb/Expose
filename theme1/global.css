@@ -541,7 +541,7 @@ z-index: 2;
 
 .post h1, .post h2, .post h3{
 display: block;
-font: 100 4em 'Lato',helvetica, arial, sans-serif;
+font: 600 4em 'Lato',helvetica, arial, sans-serif;
 margin: 0;
 padding: 20px 0 10px 0;
 }
@@ -558,7 +558,7 @@ padding: 10px 0 10px 0;
 
 .post h3{
 	clear: both;
-	font: 300 1.2em 'Lato',helvetica, arial, sans-serif;
+	font: 500 1.2em 'Lato',helvetica, arial, sans-serif;
 	padding: 10px 0 10px 0;
 }
 
