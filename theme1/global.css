@@ -501,6 +501,7 @@ opacity: 1;
 -ms-transition: opacity 0.5s ease-in;
 -o-transition: opacity 0.5s ease-in;
 transition: opacity 0.5s ease-in;
+text-align: center;
 }
 
 .post a:hover{
